@@ -1,6 +1,6 @@
 # Advanced Phishing Techniques: Analyzing Adversary-in-the-Middle and Browser-in-the-Browser Attacks in Modern Cybersecurity
 
-### [Research Paper Word Link](https://mymailmapuaedu-my.sharepoint.com/:w:/g/personal/joduldulao_mymail_mapua_edu_ph/EchsOLyFdcZNnEH6XbcOaVQBh_Q_frSLIWsWCgGY3hSqVA?e=XfhP3y)
+### [Research Paper Word Link](https://mymailmapuaedu-my.sharepoint.com/:w:/g/personal/joduldulao_mymail_mapua_edu_ph/EchsOLyFdcZNnEH6XbcOaVQBhsY1dAZgPIWA_8Z0MgIsZA)
 
 ## Overview
 
