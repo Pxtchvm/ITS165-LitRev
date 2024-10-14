@@ -69,3 +69,13 @@ https://www.researchgate.net/profile/Obi-Ibeto/publication/360112438_ANALYSIS_OF
 https://osf.io/preprints/psyarxiv/uxeth - Phishing Attack: Raising Awareness and Protection Techniques
 
 https://www.academia.edu/download/101989368/Paper_45-Machine_Learning_Based_Phishing_Attack.pdf - Machine learning-based phishing attack detection
+
+### JV RRL
+
+https://www.researchgate.net/publication/341776424_Handling_of_Man-In-The-Middle_Attack_in_WSN_Through_Intrusion_Detection_System
+
+https://arxiv.org/abs/2102.11455
+
+https://ieeexplore.ieee.org/document/8962285
+
+https://www.usenix.org/conference/usenixsecurity23/presentation/gavazzi
